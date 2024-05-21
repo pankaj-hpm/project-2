@@ -1,0 +1,55 @@
+
+#div{
+    align-content: center;
+    width: 1578px;
+    height: 1020px;
+    background-color: black;
+}
+p{
+    
+    color: blue;
+    
+}
+
+
+#divv{
+    width:1181px;
+    height: 712px;
+    border: 1px solid blue;
+    margin:50px;
+    padding: 50px;
+
+
+}
+#divvv{
+  display: flexbox;
+  justify-content: center;
+}
+legend{
+    color:white;
+    border-bottom: 1px solid black;
+    width: 1177px;
+    height: 46.01px;
+    font-size: 25px;
+}
+#student{
+    display: flex;    
+
+}
+#employee{
+    padding-left: 20px;
+}
+button{
+    width: 226px;
+    height: 58px;
+    font-size: 25px;
+}
+
+
+h2{
+    color: white;
+    size: 64px;
+    font: inter;
+    font-size: 45px;
+}
+
